@@ -36,3 +36,13 @@ GoogleDocs와 같은 웹 기반 Office 앱 개발
 * 스케줄 서버 도입을 통한 공동 편집 Framework 전반적인 기능 개발
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF) ![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=FFFFFF) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=FFFFFF) ![Junit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF)
+
+## 🧗‍♀️ 경력
+TmaxOffice 연구원 (2021.06 ~ )  
+
+삼성 디스플레이 Module PA개발 (2017.02 ~ 2021.05)  
+
+## 🏫 학력
+방송통신대학교 컴퓨터과학과 4학년 재학 중 (2022.03 ~ )  
+  
+서울대학교 재료공학부 학사 (2010.03 ~ 2016.08)
