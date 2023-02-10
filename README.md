@@ -3,7 +3,7 @@
 |Technology|About|
 |--|--|
 |![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF)|Spring Boot를 이용하여 WAS 개발 경험이 있습니다. 필요한 서비스를 만들 수 있습니다. RDBMS를 이용하여 원하는 데이터를 가공 할 수 있습니다. (Oracle, Tibero, MySQL)<br/>![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)|
-|![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=FFFFFF)|JVM에 대한 이해를 하고 있고, Java에서 사용하는 자료구조를 이해하고 있습니다. Thread safe한 설계 경험이 있습니다.|
+|![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=FFFFFF)|JVM과 Java에서 사용하는 자료구조를 이해하고 있습니다. Thread safe한 서버 설계 경험이 있습니다.|
 |![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)|필요한 UI를 구현할 수 있습니다.|
 |![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)|웹 관련 개발 시에 적극적으로 사용하고 있습니다. type 선언과 사용을 할 수 있습니다.|
 |![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)|Docker container를 적극 사용한 경험이 있습니다. Docker File 작성 및 이미지 배포, private registry 사용이 가능합니다.|
