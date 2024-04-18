@@ -12,7 +12,28 @@
 
 ## 📚 주요 프로젝트
 
-### Node Tree 공동편집 Toy Project (23.01 ~ )
+### Tmax SuperOffice 백엔드 개발 및 공동편집 기능 개발 (21.06 ~ )  
+GoogleDocs와 같은 웹 기반 Office 앱 개발  
+
+#### MyRole
+* **백엔드 공통 팀 참여:**
+  * 대용량 메시지 처리를 위한 DB 업데이트 프레임워크 개발
+* **CI/CD 구축 및 클라우드 환경 관리:**
+  * 코드 통합 및 배포 자동화 프로세스 구축
+  * 클라우드 인프라 운영 및 유지 관리
+* **공동 편집 프레임워크 개발:**
+  * 스케줄 서버 도입으로 다수 사용자의 편집 상태 동기화 및 관리
+  * 사용자 간 화면 동기화를 위한 로직 개발
+* **사내 WebSocket 기반 서버 프레임워크 도입:**
+  * 실시간 통신 및 데이터 교환을 위한 기반 구축
+* **데이터베이스 설계 및 성능 향상:**
+  * Tibero 데이터베이스 설계 및 쿼리 최적화를 통한 데이터 처리 성능 개선
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF) ![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=FFFFFF) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=FFFFFF) ![Junit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF)
+
+<hr>
+
+### Node Tree 공동편집 Toy Project (23.01 ~ 23.02)
 TmaxOffice에서 개발한 공동 편집 기능을 간소화하여 소개하는 1인 프로젝트  
 * 주요 기능
   * Node Tree Visualization
@@ -26,16 +47,6 @@ TmaxOffice에서 개발한 공동 편집 기능을 간소화하여 소개하는 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 
 <hr>
-
-### Tmax SuperOffice 백엔드 개발 및 공동편집 기능 개발 (21.06 ~ )  
-GoogleDocs와 같은 웹 기반 Office 앱 개발  
-
-#### MyRole
-* 백엔드 공통팀으로 Message를 통한 DB 업데이트 Framework 개발
-* CICD 구축 및 Cloud 환경 유지
-* 스케줄 서버 도입을 통한 공동 편집 Framework 전반적인 기능 개발
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF) ![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF) ![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=FFFFFF) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=FFFFFF) ![Junit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF)
 
 ## 🧗‍♀️ 경력
 TmaxOffice 연구원 (2021.06 ~ )  
